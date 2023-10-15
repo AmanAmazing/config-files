@@ -5,7 +5,7 @@ on mac - "~/.tmux.conf"
 
 
 # Keywords explained
-prefix = 'ctrl+b'
+prefix = 'ctrl+a'
 
 # Installing the package manager 
 for plugin manager (tpm) 'git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm'
